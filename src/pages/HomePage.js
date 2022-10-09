@@ -9,6 +9,8 @@ function HomePage() {
       <Link to="/users">Usuarios</Link>
       <br/>
       <Link to={`/user/${userID}`}>Usuarios</Link>
+      <br/>
+      <Link to="/dashboard">Dashboard</Link>
     </div>
   );
 }

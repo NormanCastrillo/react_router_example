@@ -11,7 +11,7 @@ import Dashboard from "./pages/Dashboard";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/react_router_example">
       <NavBar />
       <Routes>
         <Route path="/" element={<HomePage />} />

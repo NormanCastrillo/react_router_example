@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4ff5e477.css","mappings":"AAAA,kBACI,aAAiB,CACjB,eACJ,CAEA,oBACI,UAAY,CACZ,mBACJ","sources":["components/navbar.css"],"sourcesContent":[".navlink-selected{\n    color: blueviolet;\n    font-weight: bold;\n}\n\n.navlink-unselected{\n    color: black;\n    font-weight: lighter;\n}"],"names":[],"sourceRoot":""}

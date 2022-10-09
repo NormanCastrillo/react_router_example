@@ -1,0 +1,9 @@
+.navlink-selected{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.navlink-unselected{
+    color: black;
+    font-weight: lighter;
+}
